@@ -1,0 +1,71 @@
+cell_type	mes	0	Mesophyll cell	叶肉细胞
+organelle	cyt	1	Cytosol	胞质
+organelle	chl	2	Chloroplast	叶绿体
+organelle	mit	3	Mitochondia	线粒体
+organelle	per	4	Peroxisome	过氧化酶体
+metabolite	Sucrose	1	Sucrose	蔗糖
+metabolite	Glucose	1	Glucose	葡萄糖
+metabolite	Fructose	1	Fructose	果糖
+metabolite	F6P	1	Fructose 6-phosphate	果糖-6-磷酸
+metabolite	G1P	1	Glucose 1-phosphate	葡萄糖-1-磷酸
+metabolite	G6P	1	Glucose 6-phosphate	葡萄糖-6-磷酸
+metabolite	S6P	1	Sucrose 6-phosphate	蔗糖-6-磷酸
+metabolite	UDPG	1	Uracil-diphosphate glucose	尿苷二磷酸葡萄糖
+metabolite	DHAP	1	Dihydroxyacetone	二羟丙酮磷酸
+metabolite	GAP	1	3-phosphoglyceraldehyde	3-磷酸甘油醛
+metabolite	F1,6BP	1	Fructose 1,6-bisphosphate	果糖-1,6-二磷酸
+metabolite	F2,6BP	1	Fructose 2,6-bisphosphate	果糖-2,6-二磷酸
+metabolite	BPGA	1	1,3-bisphosphoglyceric acid	1,3-二磷酸甘油酸
+metabolite	3PGA	1	3-phosphoglyceric acid	3-磷酸甘油酸
+metabolite	2PGA	1	2-phosphoglyceric acid	2-磷酸甘油酸
+metabolite	PEP	1	Phosphoenol pyruvate	磷酸烯醇式丙酮酸
+metabolite	Pyr	1	Pyruvate	丙酮酸
+metabolite	OAA	1	Oxaloacetic acid	草酰乙酸
+metabolite	Malate	1	Malic acid	苹果酸
+metabolite	RuBP	2	Ribulose 1,5-bisphosphate	核酮糖-1,5-二磷酸
+metabolite	PGlyco	2	Phosphoglycolic acid	磷酸乙醇酸
+metabolite	Glyco	2	Glycolic acid	乙醇酸
+metabolite	Glyce	2	Glyceric acid	甘油酸
+metabolite	Gly	2	Glycine	甘氨酸
+metabolite	Ser	2	Serine	丝氨酸
+metabolite	Glx	2	Glyoxylic acid	乙醛酸
+metabolite	HPyr	2	Hydroxypyruvic acid	羟基丙酮酸
+metabolite	Glu	2	Glutamate	谷氨酸
+metabolite	aKG	2	α-Ketoglutaric acid	α-酮戊二酸
+metabolite	Ru5P	2	Ribulose 5-phosphate	核酮糖-5-磷酸
+metabolite	Xy5P	2	Xylulose 5-phosphate.	木酮糖-5-磷酸
+metabolite	R5P	2	Ribose 5-phosphate	核糖-5-磷酸
+metabolite	S7P	2	Sedoheptulose 7-phosphate	景天庚酮糖-7-磷酸
+metabolite	S1,7BP	2	Sedoheptulose 1,7-bisphosphate	景天庚酮糖-1,7-二磷酸
+metabolite	E4P	2	Erythrose 4-phosphate	赤藓糖-4-磷酸
+metabolite	Gln	2	Glutamine	谷氨酰胺
+metabolite	CIT	3	Citric acid	柠檬酸
+metabolite	ICIT	3	Isocitric acid	异柠檬酸
+metabolite	succCoA	3	Succinyl coenzyme a	琥珀酰-CoA
+metabolite	CoA	3	Coenzyme a	辅酶A
+metabolite	Succ	3	Succinic acid	琥珀酸
+metabolite	Fum	3	Fumaric acid	延胡索酸
+metabolite	acCoA	3	Acetyl coenzyme a	乙酰辅酶A
+metabolite	Ala	4	Alanine	丙氨酸
+metabolite	Aln	4	Alaninamide	丙氨酰胺
+metabolite	Cys	4	Cysteine	半胱氨酸
+metabolite	Asp	4	Aspartate	天冬氨酸
+metabolite	Asn	4	Asparagine	天冬酰胺
+metabolite	Formate	4		甲酸
+metabolite	f-THF	4		10-甲酰四氢叶酸
+metabolite	m-THF	4		5,10-亚甲基四氢叶酸
+metabolite	ATP	5		三磷酸腺苷
+metabolite	ADP	5		二磷酸腺苷
+metabolite	UTP	5		三磷酸尿苷
+metabolite	UDP	5		二磷酸尿苷
+metabolite	NADH	5		还原型辅酶I
+metabolite	NAD	5		氧化型辅酶I
+metabolite	NADPH	5		还原型辅酶II
+metabolite	NADP	5		氧化型辅酶II
+metabolite	FADH	5		还原型腺嘌呤黄素
+metabolite	FAD	5		腺嘌呤黄素
+metabolite	ADPG	5	Adenosine diphosphate glucose	腺苷二磷酸葡萄糖
+metabolite	PPi	5	Pyrophosphate	焦磷酸
+metabolite	Pi	5	Orthophosphate	磷酸
+metabolite	Starch	5	Poly-glucan	淀粉
+metabolite	H2O2	5		过氧化氢

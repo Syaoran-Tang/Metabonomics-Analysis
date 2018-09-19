@@ -1,0 +1,59 @@
+Sucrose.cyt.mes;>Fructose.cyt.mes;#Glycolysis
+Sucrose.cyt.mes;>Glucose.cyt.mes;#Glycolysis
+Sucrose.cyt.mes;>UDPG.cyt.mes;#Glycolysis
+UDPG.cyt.mes;>S6P.cyt.mes;#Glycolysis
+S6P.cyt.mes;>Sucrose.cyt.mes;#Glycolysis
+Fructose.cyt.mes;>F6P.cyt.mes;#Glycolysis
+UDPG.cyt.mes;>G1P.cyt.mes;#Glycolysis
+G1P.cyt.mes;>G6P.cyt.mes;#Glycolysis
+G6P.cyt.mes;>F6P.cyt.mes;#Glycolysis
+Glucose.cyt.mes;>G6P.cyt.mes;#Glycolysis
+F6P.cyt.mes;>F1,6BP.cyt.mes;#Glycolysis
+F1,6BP.cyt.mes;>GAP.cyt.mes;#Glycolysis
+F1,6BP.cyt.mes;>DHAP.cyt.mes;#Glycolysis
+DHAP.cyt.mes;>GAP.cyt.mes;#Glycolysis
+GAP.cyt.mes;>BPGA.cyt.mes;#Glycolysis
+GAP.cyt.mes;>3PGA.cyt.mes;#Glycolysis
+BPGA.cyt.mes;>3PGA.cyt.mes;#Glycolysis
+3PGA.cyt.mes;>2PGA.cyt.mes;#Glycolysis
+2PGA.cyt.mes;>PEP.cyt.mes;#Glycolysis
+PEP.cyt.mes;>Pyr.cyt.mes;#Glycolysis
+PEP.cyt.mes;>OAA.cyt.mes;#Glycolysis
+OAA.cyt.mes;>Malate.cyt.mes;#Glycolysis
+RuBP.chl.mes;>3PGA.chl.mes;#CBC Cycle
+3PGA.chl.mes;>BPGA.chl.mes;#CBC Cycle
+BPGA.chl.mes;>GAP.chl.mes;#CBC Cycle
+GAP.chl.mes;>DHAP.chl.mes;#CBC Cycle
+GAP.chl.mes;>S7P.chl.mes;#CBC Cycle
+DHAP.chl.mes;>F1,6BP.chl.mes;#CBC Cycle
+DHAP.chl.mes;>S1,7BP.chl.mes;#CBC Cycle
+S1,7BP.chl.mes;>S7P.chl.mes;#CBC Cycle
+F1,6BP.chl.mes;>F6P.chl.mes;#CBC Cycle
+F6P.chl.mes;>Xy5P.chl.mes;#CBC Cycle
+Xy5P.chl.mes;>Ru5P.chl.mes;#CBC Cycle
+Ru5P.chl.mes;>R5P.chl.mes;#CBC Cycle
+R5P.chl.mes;>S7P.chl.mes;#CBC Cycle
+R5P.chl.mes;>Xy5P.chl.mes;#CBC Cycle
+RuBP.chl.mes;>PGlyco.chl.mes;#Photo Respiration
+3PGA.chl.mes;>Glyce.chl.mes;#Photo Respiration
+PGlyco.chl.mes;>Glyco.chl.mes;#Photo Respiration
+Glyco.chl.mes;>Glyco.per.mes;#Photo Respiration
+Glyce.per.mes;>Glyce.chl.mes;#Photo Respiration
+Glyco.per.mes;>Glx.per.mes;#Photo Respiration
+Glx.per.mes;Glu.per.mes;>Gly.per.mes;aKG.per.mes;#Photo Respiration
+Gly.per.mes;>Gly.mit.mes;#Photo Respiration
+Gly.mit.mes;>Ser.mit.mes;#Photo Respiration
+Ser.mit.mes;>Ser.per.mes;#Photo Respiration
+Ser.per.mes;Glx.per.mes;>HPyr.per.mes;Gly.per.mes;#Photo Respiration
+HPyr.per.mes;>Glyce.per.mes;#Photo Respiration
+aKG.per.mes;>aKG.chl.mes;#N Assimilation
+Glu.per.mes;>Glu.chl.mes;#N Assimilation
+Gln.chl.mes;aKG.chl.mes;>Glu.chl.mes;#N Assimilation
+F6P.chl.mes;>G6P.chl.mes;#Others
+G6P.chl.mes;>G1P.chl.mes;#Others
+G1P.chl.mes;>ADPG.chl.mes;#Others
+3PGA.chl.mes;>PEP.chl.mes;#Others
+PEP.chl.mes;>OAA.chl.mes;#Others
+OAA.chl.mes;>Malate.chl.mes;#Others
+OAA.chl.mes;>OAA.cyt.mes;#Others
+Malate.chl.mes;>Malate.cyt.mes;#Others
